@@ -10,5 +10,7 @@ An overview of the ETL process as described herein is as follows:
 
 Files included in this repo include:
 * Resources folder containing two csv files of the raw Kaggle datasets
-* Jupyter notebook for development of the transformation step 
+* data_etl.ipynb used for initial development of data transformation step
+* data_etl.py script for deployment of the Jupyter notebook described above
+
 
