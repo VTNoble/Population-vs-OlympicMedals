@@ -5,7 +5,7 @@ This project is an ETL (Extract-Transform-Load) project that takes two datasets 
 
 An overview of this ETL process is as follows:
 
-C:\Users\willi\Desktop\Homework\13_Proj-2-Pop-vs-Oly\Resources
+Resources\Project_Flowchart
 
 <b>Extract</b>
 The datasets are both from Kaggle. One has population data by country and year from 1980 to 2008. The second dataset is a breakdown of Summer Olympic Medals won by country in each Olympic Games.
