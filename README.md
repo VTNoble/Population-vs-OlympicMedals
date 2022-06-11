@@ -5,6 +5,7 @@ This project is an ETL (Extract-Transform-Load) project that takes two datasets 
 
 An overview of this ETL process is as follows:
 
+![Project Flowchart](https://github.com/VTNoble/Proj-2-Pop-vs-Oly/blob/main/Resources/Flowchart.jpg?raw=true)
 Resources\Project_Flowchart
 
 <b>Extract</b>
