@@ -1,11 +1,11 @@
 -- Create table for merged dataframe to be loaded into
 CREATE TABLE olympic_medals (
-Year INT,
-Country TEXT,
-Gold INT,
-Silver INT,
-Bronze INT,
-Total INT,
-Population FLOAT(5)
+year INT,
+country TEXT,
+gold INT,
+silver INT,
+bronze INT,
+total INT,
+population FLOAT(5)
 );
 
