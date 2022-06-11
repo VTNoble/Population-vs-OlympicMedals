@@ -149,11 +149,11 @@ m_countries = list(new_medals_df['Country'].unique())
 # recreate list of countries in population data
 p_countries = list(new_pop_df['Country'].unique())
 
-# Loop to print countries that are in Olympics but not population data
+# # Loop to print countries that are in Olympics but not population data
 
-for country in m_countries:
-    if country not in p_countries:
-        print(country)
+# for country in m_countries:
+#     if country not in p_countries:
+#         print(country)
 
 
 # ### Successfully cleaned data. All countries in Olympic data have a match in population data
