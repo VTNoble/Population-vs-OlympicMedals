@@ -4,7 +4,7 @@ This repo contains information on an ETL project (Extract-Transform-Load). The r
 
 While the scope of this research was limited to an ETL process, future analysis of this dataset may include studying the relationship between a country's population and its Olympic medal-winning success (or lack thereof).  
 
-An overview of the ETL process (as described herein) is as follows:
+An overview of the ETL process as described herein is as follows:
 
 ![Project Flowchart](https://github.com/VTNoble/Proj-2-Pop-vs-Oly/blob/main/Resources/Flowchart.jpg?raw=true)
 
