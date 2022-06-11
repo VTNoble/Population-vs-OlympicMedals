@@ -1,13 +1,14 @@
 # Proj-2-Pop-vs-Oly
 Project 2: Population vs Olympic Medals
 
-This project is an ETL (Extract-Transform-Load) project that takes two datasets and merges them for future analysis. The datasets include country population by year and Summer Olympic medals won by year. Future analysis (not undertaken in this exercise) might include studying the relationship between a country's population in a given year and its medal-winning success. 
+This repo contains information on an ETL project (Extract-Transform-Load). The research includes two datasets from Kaggle and merges them for future analysis. These datasets include country population by year and Summer Olympic medals won by year. Future analysis (not undertaken in this research) may include studying the relationship between a country's population and its medal-winning success or lack thereof.  
 
-An overview of this ETL process is as follows:
+An overview of the ETL process as described herein is as follows:
 
 ![Project Flowchart](https://github.com/VTNoble/Proj-2-Pop-vs-Oly/blob/main/Resources/Flowchart.jpg?raw=true)
 
 
 Files included in this repo include:
-* test
+* Resources folder containing two csv files of the raw Kaggle datasets
+* Jupyter notebook utilized for development of the 
 
