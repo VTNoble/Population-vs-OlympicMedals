@@ -1,4 +1,4 @@
-# Proj-2-Pop-vs-Oly
+# ETL: Country Population vs Olympics Medals
 
 This repo contains information on an ETL project (Extract-Transform-Load). The research process included two datasets from Kaggle, one containing annual population data by country, with the other featuring medal counts for each Summer Olympic games of the modern era (since 1896). The datasets where cleaning, merged, and loaded into a relational database via PostgreSQL. 
 
